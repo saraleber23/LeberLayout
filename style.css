@@ -1,0 +1,53 @@
+
+
+.content {
+margin: 0 auto;
+width: 900px;
+font-family: Georgia, serif;
+font-size:13px;
+}
+
+#byline {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    text-align: center;
+}
+
+
+img {
+    width: 800px;   
+    height: 600px;
+    vertical-align: middle;
+    margin-right: 10px;
+    
+}
+
+h1 {
+    font-family: cursive;
+    text-align:center;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+ ul {
+    text-align: center;
+}
+.figcaption{
+    text-align: left;
+}
+
+blockquote {
+    font-size: 25px;
+}
+
+.masthead iframe {
+    display: block; 
+    margin: 0;
+    padding: 0; 
+}
+  
+
